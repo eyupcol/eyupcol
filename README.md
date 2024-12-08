@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![View](3)
+![View](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/check.svg)
 <!--
 **eyupcol/eyupcol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
